@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env/
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+dataset/
+*.csv
+*.parquet
+*.pkl
+
+# Models
+models/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
