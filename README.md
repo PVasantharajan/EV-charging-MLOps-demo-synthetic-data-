@@ -321,7 +321,7 @@ The system can shift charging into:
 
 ## Contact
 
-This case study presents a production-ready forecasting pipeline for real-world grid and EV control systems.
+This project presents a production-ready forecasting pipeline for real-world grid and EV control systems.
 
 For technical discussion, deployment architecture, or further details, please contact:
 
